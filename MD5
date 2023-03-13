@@ -1,0 +1,10 @@
+22160680f41db5c3d947daf94413ec43 *DESCRIPTION
+1458b167372d77e305defc43f309f14b *NAMESPACE
+60e4e938bacb4f446aecd167b1784954 *R/RWWC_estim.R
+ae6db45412e186df5c3e11b99cb71303 *R/plot_RWWC_estim.R
+c532fea2e1cef0baadaf436136cbd4a9 *build/partial.rdb
+e30b75aaee5a6f4f67c845233ad98e02 *data/EU_stock_markets.rda
+0eca03cbf08597d329d2357eecd83313 *man/RolWinWavCor-package.Rd
+9861d5e8c5758661c61813a8994a216d *man/man_EU_stock_markets.Rd
+236ab76c04f71bebc7e725aec5f2a285 *man/man_RWWC_estim.Rd
+d2e4d72893c8be627442c4eea6f1359f *man/man_plot_RWWC_estim.Rd

@@ -1,0 +1,5 @@
+importFrom("waveslim", "modwt", "brick.wall", "wave.correlation") 
+importFrom("stats", "is.ts", "time")
+importFrom("graphics", "axis", "layout", "mtext", "par", "plot", "points", "image")
+importFrom("grDevices", "colorRampPalette")
+exportPattern("^[[:alpha:]]+")
